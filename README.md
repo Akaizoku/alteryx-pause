@@ -2,6 +2,8 @@
 
 The repository provides a macro for [Alteryx Designer Desktop](https://www.alteryx.com/products/alteryx-designer) to enable users to introduce a pause or delay in their Alteryx workflows. This can be useful for various purposes, such as waiting for external processes to complete or managing API rate limits.
 
+![Alteryx Pause Macro](Resources/Macro.png)
+
 ## Installation
 
 A standard Alteryx Tool Installer (.YXI) file is provided. Upon executing the installer, the macro will be setup on the local machine and made available in Alteryx Designer Desktop under the "Developer" tool category.
