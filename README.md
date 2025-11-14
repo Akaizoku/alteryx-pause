@@ -47,4 +47,4 @@ The Alteryx Move Item Macro utilises [PowerShell's Start-Sleep function](https:/
 
 ### PSAYX PowerShell module
 
-In order to build the Alteryx Installer (.YXI) using the provided [Build-YXI](.\Build-YXI.ps1) PowerShell script, the [PSAYX PowerShell module](https://www.powershellgallery.com/packages/PSAYX) is required.
+In order to build the Alteryx Installer (.YXI) using the provided [Build-YXI](Build-YXI.ps1) PowerShell script, the [PSAYX PowerShell module](https://www.powershellgallery.com/packages/PSAYX) is required.
