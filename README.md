@@ -2,13 +2,13 @@
 
 The repository provides a macro for [Alteryx Designer Desktop](https://www.alteryx.com/products/alteryx-designer) to enable users to introduce a pause or delay in their Alteryx workflows. This can be useful for various purposes, such as waiting for external processes to complete or managing API rate limits.
 
-![Alteryx Pause Macro](Resources/Macro.png)
+![Macro Process](Resources/Macro.png)
 
 ## Installation
 
 A standard Alteryx Tool Installer (.YXI) file is provided. Upon executing the installer, the macro will be setup on the local machine and made available in Alteryx Designer Desktop under the "Developer" tool category.
 
-![Alteryx Tool Installer Window](Resources/Installation.png)
+![Macro Installation](Resources/Installation.png)
 
 ## Usage
 
@@ -25,13 +25,13 @@ Two configuration parameters are required:
    4. Hours
 2. Duration: The duration of the pause, specified as an integer value.
 
-![Alteryx Move Item Macro Configuration Menu](Resources/Configuration.png)
+![Macro Configuration](Resources/Configuration.png)
 
 ### Example
 
 Upon installation, an example workflow will be made available in Alteryx Designer Desktop under `Help > Sample Workflows > Macros > Pause Example Workflow`.
 
-![Alteryx Pause Example Workflow](Resources/Example.png)
+![Macro Example](Resources/Example.png)
 
 ## Dependencies
 
